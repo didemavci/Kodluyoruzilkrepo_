@@ -1,6 +1,13 @@
 # Kodluyoruzilkrepo_
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+
+
+![](https://github.com/didemavci/Kodluyoruzilkrepo_/blob/main/repo.png)
+
+
+
+
 # Installation
 Öncelikle projeyi klonlayın
 <br>
